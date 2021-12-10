@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "meals": [
+    {
+      "id": 0,
+      "name": "musaka",
+      "image": "/img/freshly.jpg",
+      "dish": "1",
+      "chef": "Zika"
+    },
+    {
+      "name": "jaja na oko",
+      "image": "https://www.vijesti.me/data/images/2019/03/28/00/4349587_20190328160352_aa9ad1b411cb0a8a205d65b5965e7a513a28f155148107e8b716d376c68ead35_ls.jpg",
+      "dish": "2",
+      "chef": "xzoki",
+      "id": 1
+    },
+    {
+      "name": "kajgana",
+      "image": "https://lepaisrecna.mondo.rs/Picture/84862/jpeg/omlet.jpg",
+      "dish": "1",
+      "chef": "zoki",
+      "id": 2
+    },
+    {
+      "name": "palacinke",
+      "image": "https://staticstvarukusa.mondo.rs/Picture/8238/jpeg/najukusnije_palacinke.jpg",
+      "dish": "1",
+      "chef": "zorjki",
+      "id": 3
+    },
+    {
+      "name": "Sendvic",
+      "image": "https://www.vega.rs/wp-content/uploads/2019/04/sa-suvim-mesom.jpg",
+      "dish": "1",
+      "chef": "zoki",
+      "id": 4
+    },
+    {
+      "name": "kuvana jaja",
+      "image": "https://i.ytimg.com/vi/KYCHsmnRm-8/maxresdefault.jpg",
+      "dish": "1",
+      "chef": "zoki",
+      "id": 5
+    },
+    {
+      "name": "cheese cake",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/05/Pefect-Cheesecake-7.jpg",
+      "dish": "2",
+      "chef": "zozzo",
+      "id": 6
+    },
+    {
+      "name": "Svadbarski Kupus",
+      "image": "https://stil.kurir.rs/data/images/2019/11/01/12/202819_shutterstock-763038010_ls.jpg",
+      "dish": "3",
+      "chef": "Zoran",
+      "id": 7
+    }
+  ]
 }
